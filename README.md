@@ -1,6 +1,14 @@
 
 # Module 4 -  Final Project Specifications
 
+## Repository Contents
+* Mod4ProjectPresentation.pdf - Executive summary of the project for a non-technical audience
+* mod_4_starter_notebook.ipynb - Jupyter Notebook containing code written for the project for a technical audience
+* zillow_data.csv - Provided dataset for the project
+* CRISP-DM.jpg - Image describing that data science framework used in this project
+* Other Files (.gitignore, .learn, CONTRIBUTING.md, LICENSE.md, README.md, module4_project_rubric.pdf) - forked repository files
+* Other Folders (images, starter_notebook) - forked repository folders
+
 ## Introduction
 
 In this lesson, we'll review all the guidelines and specifications for the final project for Module 4.
